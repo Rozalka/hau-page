@@ -1,0 +1,40 @@
+{
+    "offers": [
+      {
+        "id": 1,
+        "person": "John Doe",
+        "email": "johndoe@abc.com",
+        "offer": "dog bath",
+        "date":"22.10.20",
+        "price": "100zł",
+        "status": "open"
+      },
+      {
+        "id": 2,
+        "person": "Jane Doe",
+        "email": "janedoe@abc.com",
+        "offer": "3-hours dog spa",
+        "date": "20.09.20",
+        "price": "250zł",
+        "status": "open"
+      },
+      {
+        "id": 3,
+        "person": "Alice Doe",
+        "email": "alicedoe@abc.com",
+        "offer": "30 min. walk",
+        "date": "-",
+        "price": "30zł",
+        "status": "open"
+      },
+      {
+        "id": 4,
+        "person": "Bob Doe",
+        "email": "bobdoe@abc.com",
+        "offer": "30 min. walk twice a week",
+        "date": "since 19.10.20",
+        "price": "25zł per each",
+        "status": "open"
+      }
+    ]
+  }

@@ -10,7 +10,6 @@ function Advert({person, email, offer, date, price, status}) {
             <p>cost {price}</p>
             <p>status: {status}</p>
             </form>
-
         </li>
     )
 }

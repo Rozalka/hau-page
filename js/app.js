@@ -1,6 +1,6 @@
-import React from "react";
+import React, {Component} from "react";
 import ReactDOM from "react-dom";
-import Operations from "./components/Operations"
+import Operations from "./components/Operations";
 
 const App = () => <Operations/>
 
